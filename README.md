@@ -1,3 +1,5 @@
 # ITRI
 ## IIT X NTHU X ITRI Internship Project
-Ayush Patel, Lovish Chopra
+
+Software to extract car accident clips from youtube videos
+(Ayush Patel, Lovish Chopra)
