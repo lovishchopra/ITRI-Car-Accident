@@ -1,0 +1,2 @@
+ffmpeg -start_number 238 -framerate 10 -i frame_00000%d.jpg -vcodec mpeg4 test.avi
+
